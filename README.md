@@ -4,6 +4,11 @@
 ### <div align="center">I'm Victor Verdeja, FullStack Developer and Data Scientist, seeking for my first IT job oportunity.</div>  
   
 
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/96750594?v=4" align="center" height="200" width="" />
+</div>  
+  
+
 - 🔭 I’m currently working on [Page Navigation App MVVM
 ](https://github.com/CodedSpirit-dev/Page-Navigation-App-MVVM)  
   
